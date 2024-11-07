@@ -14,6 +14,13 @@
   ],
   "author": "Paula",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eurolife/tapas-countries"
+  },
+  "bugs": {
+    "url": "https://github.com/eurolife/tapas-countries/issues"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
